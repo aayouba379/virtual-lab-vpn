@@ -107,20 +107,6 @@ This lab gave me practical experience with:
 - troubleshooting real packet flow across multihomed Linux systems
 - using packet captures to prove whether traffic was clear text or ESP-protected
 
-## Repository Contents
-
-Suggested repo structure:
-
-```text
-.
-├── README.md
-├── docs/
-│   └── Virtual-Lab-VPN-Report.pdf
-├── images/
-├── configs/
-└── notes/
-```
-
 ## Full Report
 
 The full technical write-up for this lab is included separately as the project report. It contains the detailed build process, configuration screenshots, and validation captures used to verify each IPsec channel.
