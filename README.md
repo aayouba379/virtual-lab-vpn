@@ -111,8 +111,3 @@ This lab gave me practical experience with:
 
 The full technical write-up for this lab is included separately as the project report. It contains the detailed build process, configuration screenshots, and validation captures used to verify each IPsec channel.
 
-## Resume Summary
-
-If I had to summarize this project in one line for a resume:
-
-> Built and validated an AWS-based virtual network security lab using Libreswan IPsec, implementing and troubleshooting host-to-host, host-to-gateway, and gateway-to-gateway secure channels across multiple routed subnets.
